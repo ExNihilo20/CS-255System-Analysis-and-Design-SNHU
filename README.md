@@ -15,5 +15,5 @@ The System Design Document (SDD) shows a number of diagrams which detail various
 
 ## Areas for Improvement 
 I would redo the Assumptions section of the BRD if I had to pick anything. While some assumptions are included, this list could be expanded upon. Further clarification could be added to this section as well. Some aspects, like internet connectivity or standard security measures, take time to explain and could be expanded upon. Furthermore, the SDD case diagram could be revised. The document shows some external actors and some functional activity, but the diagram could be fine-tuned to further elaborate on system functions.
-
+ 
 

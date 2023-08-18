@@ -16,4 +16,13 @@ The System Design Document (SDD) shows a number of diagrams which detail various
 ## Areas for Improvement 
 I would redo the Assumptions section of the BRD if I had to pick anything. While some assumptions are included, this list could be expanded upon. Further clarification could be added to this section as well. Some aspects, like internet connectivity or standard security measures, take time to explain and could be expanded upon. Furthermore, the SDD case diagram could be revised. The document shows some external actors and some functional activity, but the diagram could be fine-tuned to further elaborate on system functions.
  
+## How the Documents Interpret User Needs
+The documents gave a structured approach to the client's needs. The BRD starts by summarizing the client's requirements and then - one by one - addresses various parts of the system, their purpose, the background behind them, their objectives, and the project's function/non-functional requirements. Both the BRD and the SDD address the user interface needs, but the BRD directly addresses system assumptions and limitations. The BRD also includes a Gantt chart for the project's timeline! 
 
+## Why are User Needs Important
+Considering the user's needs is important because they are the primary funding source for the system. The users decide whether they will interact with a system, and how much they will spend on services that a system offers.
+
+## How do I Approach Design
+The design process should be user-centric, because the user is the reason that the designs are made in the first place. The process should be systematic as opposed to being done without a structure or all at once. Overall objectives, functionality, non-functional requirements, business requirements, and more should be taken from all project shareholders during the planning stages for the betterment of all parties. 
+
+An analysis of the target market will help to drill down on exactly how a particular user demographic will likely use a system's offerings. The design of any system should reflect that demographic's preferences in regard to features, functionality, interface, and more. Ideology should be set aside, as the system is for the user. This is difficult when the majority of public funding comes from only a few key investment firms, but great strides should be made to focus on the user him or herself.

@@ -11,4 +11,6 @@ The Business Requirements Document (BRD) was effective at grabbing all details r
 - usability
 - maintainability
 
-The 
+The System Design Document (SDD) shows a number of diagrams which detail various aspects of the DriverPass system. The document shows a case Unified Modeling Language (UML) diagram, where customers, administrators, and staff interact with various system functions. The SDD also shows activity UML diagrams related to user login and authentication/authorization protocols, which will be used whenever someone access the system. Sometimes one view is not enough to understand a project facet, so there is a UML sequence diagram to further explain the login and authentication process for system users. This document also has a UML class diagram that shows system components and the general project structure, and does a great job of graphically illustrating abstract project ideas.
+
+## 
